@@ -1,0 +1,21 @@
+# Root Gitignore
+.gradle/
+build/
+bin/
+out/
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.DS_Store
+*.log
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Environment variables
+.env
+.env.*
+!.env.example
